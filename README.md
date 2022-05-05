@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spencer</h1>
 <h3 align="center">Software developer from New-Caledonia</h3>
 
-- 🌱 I’m currently learning **DevOps thanks to the OPT-GLIA resources**
+- 🌱 I’m currently learning **DevOps practices and tools thanks to the OPT-GLIA resources**
 
 - 📫 How to reach me **www.linkedin.com/in/spencer-forrest-opt/**
 
