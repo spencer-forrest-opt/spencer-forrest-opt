@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/spencer-forrest-opt/**
 
-- ⚡ Fun fact **I am interested in JetBrain KMM and Compose Mutliplatform for iOS**
+- ⚡ Fun fact **I am interested in <a href="https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html" target="blank">KMM</a> and <a href="https://blog.jetbrains.com/kotlin/2023/05/compose-multiplatform-for-ios-is-in-alpha/" target="blank">Compose Mutliplatform for iOS</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
